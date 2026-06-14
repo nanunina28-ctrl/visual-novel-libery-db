@@ -4,6 +4,8 @@ example are reading one but are in delploving you can add in the program for not
 the proyect are make in python but soon i will do a new vercion in flutter
 you can siuport me whit my ko fi
 https://ko-fi.com/nanu28
+i will add a english traslate soon
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
